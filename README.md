@@ -1,4 +1,16 @@
-### Hi there 👋
+### 김선호 Kim Seon Ho
+---
+Full-Stack Engineer
+Tags...
+
+JavaScript, JQuery, React
+Android, Kotlin, Swift(MVP/MVVM)
+Java
+Oracle, MSSQL, MySql
+
+Spring F/W, Spring Boot, Jpa/Hibernate, PL/SQL, Git, Vercel, Nexacro, WebSquare, Exbuilder6
+
+
 
 <!--
 **sleepygloa/sleepygloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
